@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey, I'm River (@riverdev272) 👋
 
-<!--
-**riverdev272/riverdev272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend dev based in London. I build clean, fast web interfaces and mess around with modern frontend tooling. Currently freelancing and building small open-source utilities.
 
-Here are some ideas to get you started:
+#### What I work with:
+- TypeScript, React, Next.js
+- TailwindCSS, CSS Modules
+- Vite, Turbopack, Vitest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently:
+- 🔨 Building client apps and design systems
+- ⚡ Obsessing over bundle sizes and Web Vitals
+- 📖 Reading up on React Server Components internals
+
+#### Find me:
+- Website: riverdev.me
+- X/Twitter: @riverdev272
+- Email: hello@riverdev.me
